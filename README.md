@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Master's student in Statistics and Data Science at Uppsala University
 
-Currently working on personal and educational projects related to data analysis, risk analysis and time series forecasting
+Currently working on personal and educational projects related to statistical modeling and data anlysis, involving risk analysis and time series forecasting
 
-Mainly using R (R-studio), as well as Python (Pycharm)
+Mainly using R (RStudio), as well as Python (PyCharm)
