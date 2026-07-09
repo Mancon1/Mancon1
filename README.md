@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Måns 👋
 
 <!--
 **Mancon1/Mancon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Master's student in Statistics and Data Science at Uppsala University
+
+Currently working on personal and educational projects related to Data Analysis, risk analysis and time series forecasting
+
+Mainly using R (R-studio), as well as Python (Pycharm)
